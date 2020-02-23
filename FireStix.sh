@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created By ybenel
+# Created By r2dr0dn
 
 ## Check IF User Is Root..:)
 
@@ -157,7 +157,7 @@ echo -e "                          |${Blue} Love${stong}     You${Reset}    ${un
 sleep 0.1
 echo -e "                          ${Cyan}+${yellow}--------------------------${Reset}${Cyan}+"
 sleep 0.1
-printf "\n\e[1;34m[---] SCRIPT: \e[1;31m[FireStix]\e[1;32m>>>Scanning.\e[1;34m[---][\e[1;31m+\e[1;34m][---] CodedBy:\e[1;31m [m1ndo]\e[1;32m>>>ybenel.\e[1;34m [---]\n\e[1;35m============================================================================================\n"
+printf "\n\e[1;34m[---] SCRIPT: \e[1;31m[FireStix]\e[1;32m>>>Scanning.\e[1;34m[---][\e[1;31m+\e[1;34m][---] CodedBy:\e[1;31m [r2dr0dn]\e[1;32m>>>r2dr0dn@pm.me.\e[1;34m [---]\n\e[1;35m============================================================================================\n"
 sleep 0.1
 printf "\n\e[1;32m[#]\e[1;31m Choice \e[1;34mYour \e[1;33mNmap \e[1;36mStrategy..\e[1;35m(^o^)\n"
 sleep 0.1
